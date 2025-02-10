@@ -9,13 +9,16 @@ The Smart Document Reader allows users to upload and read various document files
 - Use the chatbot interface to ask questions related to the document content.
 
 ## Access the Application
-You can access the application at [smartdocumentreader.netlify.app](https://smartdocumentreader.netlify.app/).
+You can access the application at [documentreader.netlify.app](https://documentreader.netlify.app/).
 
 
 ## Screenshots
 
-![image](https://github.com/user-attachments/assets/969fe62f-bd18-421d-8625-0bd0b5e67646)
+![image](https://github.com/user-attachments/assets/d59f32e6-e9a4-4c38-8bd1-faccdf35af50)
 
-![image](https://github.com/user-attachments/assets/ae0e2d6b-7d07-452f-9482-393976c68bb4)
+
+![image](https://github.com/user-attachments/assets/dbdac820-7ca0-4d91-ae26-82f2b90dc7e4)
+
+
 
 
